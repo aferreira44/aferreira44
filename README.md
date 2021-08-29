@@ -11,8 +11,8 @@
 <!-- <a href='https://ko-fi.com/I3I644UCW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
 </p>
 
-- 🌱 I’m currently learning Golang and Bitcoin
-- I keep studying Solidity, Typescript, cloud and software architecture
+- 🌱 I’m currently learning Golang and Rust
+- I keep studying Solidity, Bitcoin, JS/Typescript, cloud and software architecture
 
 <!--
 **aferreira44/aferreira44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
