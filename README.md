@@ -71,7 +71,8 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
     <img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=black" height="25"/>
   </li>
   <li>DevOps:
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+    <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/docker-%230493d2.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
   </li>
 <!-- <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/> -->
