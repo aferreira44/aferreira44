@@ -43,9 +43,12 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 💻 Technologies & Tools
 
 <p align="center">
-
+  
+<ul>
+  <li>Blockchain:
 <img src="https://img.shields.io/badge/solidity-%23FFFFFF.svg?&style=for-the-badge&logo=solidity&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/bitcoin-%23404d59.svg?&style=for-the-badge&logo=bitcoin&logoColor=black" height="25"/>
+  </li>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/python%20-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=black" height="25"/>
