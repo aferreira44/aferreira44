@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aferreira44.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/aferreira44?style=social)
 
-### Hey, I'm André <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
+## Hey, I'm André <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
 <!-- CEO at [prestd](https://prestd.com) -->
 
@@ -16,10 +16,10 @@
 
 ### Find me elsewhere 🌎
 
-[🚀: Website](https://andreferreira.me) <br>
-[🐦: Twitter](https://twitter.com/aferreira44) <br>
-[💼: LinkedIn](https://www.linkedin.com/in/aferreira44) <br>
-[📸: Instagram](https://instagram.com/aferreira44)
+[<img src="https://img.shields.io/badge/website-white.svg?&style=for-the-badge" height="25"/>](https://andreferreira.me)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"/>](https://twitter.com/aferreira44)
+[<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/aferreira44)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://instagram.com/aferreira44)
 
 <!-- [![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ) -->
 
