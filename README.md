@@ -62,18 +62,20 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 <p align="center">
   
 <ul>
-  <li>Blockchain:
+  <li>Blockchain/DLT:
 <img src="https://img.shields.io/badge/solidity-%23FFFFFF.svg?&style=for-the-badge&logo=solidity&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/bitcoin-%23404d59.svg?&style=for-the-badge&logo=bitcoin&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/corda-%23EC1D24.svg?&style=for-the-badge&logo=r3&logoColor=white" height="25"/>
   </li>
   <li>Programming Languages:
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/python%20-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/golang%20-%2300acd7.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/node-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/golang-%2300acd7.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
   </li>
   <li>Frontend:
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+    <img src="https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
   </li>
   <li>Databases:
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
@@ -81,6 +83,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
   </li>
   <li>Cloud:
     <img src="https://img.shields.io/badge/Amazon%20AWS-%23ff9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=black" height="25"/>
+    <img src="https://img.shields.io/badge/serverless-%23FD5750.svg?&style=for-the-badge&logo=serverless&logoColor=white" height="25"/>
   </li>
   <li>Operating System:
     <img src="https://img.shields.io/badge/linux-%23F7DF1E.svg?&style=for-the-badge&logo=linux&logoColor=black" height="25"/>
