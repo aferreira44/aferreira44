@@ -1,18 +1,35 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aferreira44.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/aferreira44?style=social)
 
+### Hey, I'm André <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
+
+<!-- CEO at [prestd](https://prestd.com) -->
+
+### What I'm working on 👨‍💻
+<!-- 
+[🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
+[📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_ -->
+
+
+- 🤓 I’m currently learning Golang
+- 🌱 I keep studying Solidity, Bitcoin, JS/Typescript, cloud and software architecture
+
+### Find me elsewhere 🌎
+
+[🚀: Website](https://andreferreira.me) <br>
+[🐦: Twitter](https://twitter.com/aferreira44) <br>
+[💼: LinkedIn](https://www.linkedin.com/in/aferreira44) <br>
+[📸: Instagram](https://instagram.com/aferreira44)
+
 <!-- [![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ) -->
 
-<p align='center'>
+<!-- <p align='center'> -->
 <!-- <a href="https://dev.to/glaucia86"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp; -->
-<a href="https://twitter.com/aferreira44"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<!-- <a href="https://twitter.com/aferreira44"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aferreira44/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</br>
+</br> -->
 <!-- <a href='https://ko-fi.com/I3I644UCW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
-</p>
-
-- 🌱 I’m currently learning Golang and Rust
-- I keep studying Solidity, Bitcoin, JS/Typescript, cloud and software architecture
+<!-- </p> -->
 
 <!--
 **aferreira44/aferreira44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -112,12 +129,6 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 - [Módulo 02 (Vídeos 13 à 18.1) - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-13-a-18-1-typescript-zero-to-hero-5565)
 - [Módulo 02 (Vídeos 07 à 12) - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-07-a-12-typescript-zero-to-hero-44oa) -->
 <!-- BLOG-POST-LIST:END -->
-
-## 🎯 Let's Keep in Touch and Follow me 
-
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aferreira44)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aferreira44/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aferreira44)
 
 <!--
 ## 🔴 I do some Live Codings! So follow me also on...
