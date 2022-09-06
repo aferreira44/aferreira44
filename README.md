@@ -101,7 +101,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ![GitHub followers](https://img.shields.io/github/followers/aferreira44?style=social)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aferreira44&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=aferreira44&no-frame=true)
 
 ## Find me elsewhere 🌎
 
