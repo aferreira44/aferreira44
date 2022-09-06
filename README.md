@@ -1,8 +1,8 @@
-## Hey, I'm André <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
+# Hey, I'm André <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
 <!-- CEO at [prestd](https://prestd.com) -->
 
-### What I'm working on 👨‍💻
+## What I'm working on 👨‍💻
 <!-- 
 [🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
 [📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_ -->
@@ -10,13 +10,6 @@
 
 - 🤓 I’m currently learning Golang and Rust
 - 🌱 I keep studying Solidity, Bitcoin, JS/Typescript, cloud and software architecture
-
-### Find me elsewhere 🌎
-
-[<img src="https://img.shields.io/badge/website-white.svg?&style=for-the-badge" height="25"/>](https://andreferreira.me)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"/>](https://twitter.com/aferreira44)
-[<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/aferreira44)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://instagram.com/aferreira44)
 
 <!-- [![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ) -->
 
@@ -56,20 +49,20 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 💻 Technologies & Tools
 
-<p align="center">
-  
-<ul>
-  <li>Blockchain/DLT:
-<img src="https://img.shields.io/badge/solidity-%23FFFFFF.svg?&style=for-the-badge&logo=solidity&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/bitcoin-%23404d59.svg?&style=for-the-badge&logo=bitcoin&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/corda-%23EC1D24.svg?&style=for-the-badge&logo=r3&logoColor=white" height="25"/>
-  </li>
-  <li>Programming Languages:
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/node-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/golang-%2300acd7.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
-  </li>
+### Blockchain/DLT
+
+![Solidity Logo](https://img.shields.io/badge/solidity-%23FFFFFF.svg?&style=for-the-badge&logo=solidity&logoColor=black "Solidity Logo")
+![Bitcoin Logo](https://img.shields.io/badge/bitcoin-%23404d59.svg?&style=for-the-badge&logo=bitcoin&logoColor=black "Bitcoin Logo")
+![Corda Logo](https://img.shields.io/badge/corda-%23EC1D24.svg?&style=for-the-badge&logo=r3&logoColor=white "Corda Logo")
+
+### Programming Languages
+
+![TypeScript Logo](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white "TypeScript Logo")
+![NodeJS Logo](https://img.shields.io/badge/node-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white "NodeJS Logo")
+![Python](https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=black "Python")
+![Go](https://img.shields.io/badge/golang-%2300acd7.svg?&style=for-the-badge&logo=go&logoColor=white "Go")
+
+</li>
   <li>Frontend:
     <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
     <img src="https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
@@ -109,6 +102,13 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ![GitHub followers](https://img.shields.io/github/followers/aferreira44?style=social)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aferreira44)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Find me elsewhere 🌎
+
+[<img src="https://img.shields.io/badge/website-white.svg?&style=for-the-badge" height="25"/>](https://andreferreira.me)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"/>](https://twitter.com/aferreira44)
+[<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/aferreira44)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://instagram.com/aferreira44)
 
 <!--
 <p align = "center">
