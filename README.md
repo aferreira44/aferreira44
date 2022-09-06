@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aferreira44.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/aferreira44?style=social)
-
 ## Hey, I'm André <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
 <!-- CEO at [prestd](https://prestd.com) -->
@@ -11,7 +8,7 @@
 [📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_ -->
 
 
-- 🤓 I’m currently learning Golang
+- 🤓 I’m currently learning Golang and Rust
 - 🌱 I keep studying Solidity, Bitcoin, JS/Typescript, cloud and software architecture
 
 ### Find me elsewhere 🌎
@@ -109,6 +106,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## ⭐ GitHub Stats
 
+![GitHub followers](https://img.shields.io/github/followers/aferreira44?style=social)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aferreira44)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=aferreira44&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aferreira44&hide=css,java,html&theme=tokyonight">
