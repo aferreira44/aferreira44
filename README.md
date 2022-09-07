@@ -2,6 +2,10 @@
 
 <!-- CEO at [prestd](https://prestd.com) -->
 
+Professional with 7 years of experience in technology, a specialist in blockchain technologies (Bitcoin, Ethereum, R3 Corda, and Quorum). I have a strong experience as a Full Stack Developer working with several technologies, mainly TypeScript, Python, React, also having experience with SCRUM, AWS, Linux, Git, Docker, and CI/CD tools. I also act as a technical leader, managing technology projects, defining software architecture, and inspiring teams to develop their full potential.
+
+
+
 ## What I'm working on 👨‍💻
 <!-- 
 [🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
@@ -62,29 +66,33 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ![Python](https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=black "Python")
 ![Go](https://img.shields.io/badge/golang-%2300acd7.svg?&style=for-the-badge&logo=go&logoColor=white "Go")
 
-</li>
-  <li>Frontend:
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-    <img src="https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
-  </li>
-  <li>Databases:
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-  </li>
-  <li>Cloud:
-    <img src="https://img.shields.io/badge/Amazon%20AWS-%23ff9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=black" height="25"/>
-    <img src="https://img.shields.io/badge/serverless-%23FD5750.svg?&style=for-the-badge&logo=serverless&logoColor=white" height="25"/>
-  </li>
-  <li>Operating System:
-    <img src="https://img.shields.io/badge/linux-%23F7DF1E.svg?&style=for-the-badge&logo=linux&logoColor=black" height="25"/>
-    <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=black" height="25"/>
-    <img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=black" height="25"/>
-  </li>
-  <li>DevOps:
-    <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/docker-%230493d2.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-  </li>
+### Frontend
+
+![React Logo](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB "React Logo")
+![NextJS Logo](https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white "NextJS Logo")
+    
+### Databases
+
+![PostegreSQL Logo](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white "PostegreSQL Logo")
+![MongoDB Logo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white "MongoDB Logo")
+    
+### Cloud Providers
+
+![AWS Logo](https://img.shields.io/badge/Amazon%20AWS-%23ff9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=black "AWS Logo")
+![Serverless Framework](https://img.shields.io/badge/serverless-%23FD5750.svg?&style=for-the-badge&logo=serverless&logoColor=white "Serverless Framework")
+    
+### Operating System
+
+![Linux Logo](https://img.shields.io/badge/linux-%23F7DF1E.svg?&style=for-the-badge&logo=linux&logoColor=black "Linux Logo")
+![Ubuntu Logo](https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=black "Ubuntu Logo")
+![Manjaro Logo](https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=black "Manjaro Logo")
+    
+### DevOps
+
+![VSCode Logo](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white "VSCode Logo")
+![Github Logo](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white "Github Logo")
+![Docker Logo](https://img.shields.io/badge/docker-%230493d2.svg?&style=for-the-badge&logo=docker&logoColor=white "Docker Logo")
+    
 <!-- <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/> -->
 <!-- <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25"/> -->
 <!-- <img src="https://img.shields.io/badge/svelte%20-%2320232a.svg?&color=4A4A55&style=for-the-badge&logo=svelte&logoColor=%FF3E00" height="25"/> -->
@@ -94,8 +102,6 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 <!-- <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white" height="25"/> -->
 <!-- <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/> -->
 <!-- <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/> -->
-
-</p>
 
 ## ⭐ GitHub Stats
 
