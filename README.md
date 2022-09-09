@@ -116,6 +116,10 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/aferreira44)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://instagram.com/aferreira44)
 
+- [Codewars](https://www.codewars.com/users/aferreira44)
+- [Hackerrank](https://www.hackerrank.com/aferreira44)
+- [Exercism](https://exercism.org/profiles/aferreira44)
+
 <!--
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=aferreira44&show_icons=true&theme=tokyonight&line_height=27">
