@@ -112,9 +112,8 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## Find me elsewhere 🌎
 
 [<img src="https://img.shields.io/badge/website-white.svg?&style=for-the-badge" height="25"/>](https://andreferreira.me)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"/>](https://twitter.com/aferreira44)
 [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/aferreira44)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://instagram.com/aferreira44)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"/>](https://twitter.com/aferreira44)
 
 - [Codewars](https://www.codewars.com/users/aferreira44)
 - [Hackerrank](https://www.hackerrank.com/aferreira44)
