@@ -119,6 +119,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 - [Hackerrank](https://www.hackerrank.com/aferreira44)
 - [Exercism](https://exercism.org/profiles/aferreira44)
 - [HackTheBox](https://app.hackthebox.com/users/953483)
+- [LeetCode](https://leetcode.com/aferreira44/)
 
 <!--
 <p align = "center">
