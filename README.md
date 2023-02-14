@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"/>](https://twitter.com/aferreira44)
 ![GitHub followers](https://img.shields.io/github/followers/aferreira44?style=social)
 
-[Codewars](https://www.codewars.com/users/aferreira44) - [Hackerrank](https://www.hackerrank.com/aferreira44) - [Exercism](https://exercism.org/profiles/aferreira44) - [HackTheBox](https://app.hackthebox.com/users/953483) - [LeetCode](https://leetcode.com/aferreira44/)
+[Codewars](https://www.codewars.com/users/aferreira44) · [Hackerrank](https://www.hackerrank.com/aferreira44) · [Exercism](https://exercism.org/profiles/aferreira44) · [HackTheBox](https://app.hackthebox.com/users/953483) · [LeetCode](https://leetcode.com/aferreira44/)
 
 - 8 years of experience in technology as a software engineer and blockchain specialist
 - JS/TypeScript, Go, Python, Solidity, and Rust
