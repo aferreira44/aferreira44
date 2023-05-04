@@ -2,18 +2,31 @@
 
 <!-- CEO at [prestd](https://prestd.com) -->
 
+<!--
 Professional with 7 years of experience in technology, a specialist in blockchain technologies (Bitcoin, Ethereum, R3 Corda, and Quorum). I have a strong experience as a Full Stack Developer working with several technologies, mainly TypeScript, Python, React, also having experience with SCRUM, AWS, Linux, Git, Docker, and CI/CD tools. I also act as a technical leader, managing technology projects, defining software architecture, and inspiring teams to develop their full potential.
+-->
 
 
+## Private Projects
 
-## What I'm working on 👨‍💻
+🔒 Bitcoin Saving & Investment App - _Secure and user-friendly bitcoin-only app enabling easy access to bitcoin saving and investment for everyone_
+
+🚀 Token Launchpad - _Providing an all-in-one platform for web3 projects to launch tokens securely and easily_
+
+## Open Source Projects
+
+[🔑 Cryptography101](https://github.com/aferreira44/cryptography101) - _A comprehensive guide to cryptography, from basics to practical applications._
+
+[🔒 Bitcoin Core REST API](https://github.com/aferreira44/bitcoin-core-rest-api-nestjs) - _REST API for Bitcoin Core RPC methods written in TypeScript and NestJS_
+
 <!-- 
 [🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
 [📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_ -->
 
-
+<!--
 - 🤓 I’m currently learning Golang and Rust
 - 🌱 I keep studying Solidity, Bitcoin, JS/Typescript, cloud and software architecture
+-->
 
 <!-- [![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ) -->
 
@@ -50,6 +63,8 @@ Glaucia Lemos is Cloud Advocate in JavaScript/Node & TypeScript at Microsoft. Sh
 Glaucia is currently Member & Contributor at **[Node.js Foundation](https://www.linkedin.com/company/node.js-foundation/)** and at **[React Community](https://github.com/reactjs)** making contributions to Nodejs.org and Reactjs.org translations into Portuguese. Glaucia also belongs in quite inclusive Communities such as **[WoMakersCode](https://womakerscode.org/)** - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity. Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge for all people!
 
 Outside of development, Glaucia enjoys learn new languages, love meeting different people and cultures, a movie buff and drummer! -->
+
+<!--
 
 ## 💻 Technologies & Tools
 
@@ -103,11 +118,15 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 <!-- <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/> -->
 <!-- <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/> -->
 
+<!--
+
 ## ⭐ GitHub Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/aferreira44?style=social)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aferreira44&no-frame=true)
+
+-->
 
 ## Find me elsewhere 🌎
 
