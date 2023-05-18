@@ -9,15 +9,16 @@ Professional with 7 years of experience in technology, a specialist in blockchai
 
 ## Private Projects
 
-🔒 Bitcoin Saving & Investment App - _Secure and user-friendly bitcoin-only app enabling easy access to bitcoin saving and investment for everyone_
-
-🚀 Token Launchpad - _Providing an all-in-one platform for web3 projects to launch tokens securely and easily_
-
-## Open Source Projects
 
 [🔑 Cryptography101](https://github.com/aferreira44/cryptography101) - _A comprehensive guide to cryptography, from basics to practical applications._
 
 [🔒 Bitcoin Core REST API](https://github.com/aferreira44/bitcoin-core-rest-api-nestjs) - _REST API for Bitcoin Core RPC methods written in TypeScript and NestJS_
+
+## Open Source Projects
+
+🔒 Bitcoin Saving & Investment App - _Secure and user-friendly bitcoin-only app enabling easy access to bitcoin saving and investment for everyone_
+
+🚀 Token Launchpad - _Providing an all-in-one platform for web3 projects to launch tokens securely and easily_
 
 <!-- 
 [🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
