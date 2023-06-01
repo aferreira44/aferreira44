@@ -6,15 +6,13 @@
 Professional with 7 years of experience in technology, a specialist in blockchain technologies (Bitcoin, Ethereum, R3 Corda, and Quorum). I have a strong experience as a Full Stack Developer working with several technologies, mainly TypeScript, Python, React, also having experience with SCRUM, AWS, Linux, Git, Docker, and CI/CD tools. I also act as a technical leader, managing technology projects, defining software architecture, and inspiring teams to develop their full potential.
 -->
 
-
-## Private Projects
-
+## Open Source Projects
 
 [🔑 Cryptography101](https://github.com/aferreira44/cryptography101) - _A comprehensive guide to cryptography, from basics to practical applications._
 
 [🔒 Bitcoin Core REST API](https://github.com/aferreira44/bitcoin-core-rest-api-nestjs) - _REST API for Bitcoin Core RPC methods written in TypeScript and NestJS_
 
-## Open Source Projects
+## Private Projects
 
 🔒 Bitcoin Saving & Investment App - _Secure and user-friendly bitcoin-only app enabling easy access to bitcoin saving and investment for everyone_
 
