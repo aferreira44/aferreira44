@@ -6,6 +6,7 @@
 Professional with 7 years of experience in technology, a specialist in blockchain technologies (Bitcoin, Ethereum, R3 Corda, and Quorum). I have a strong experience as a Full Stack Developer working with several technologies, mainly TypeScript, Python, React, also having experience with SCRUM, AWS, Linux, Git, Docker, and CI/CD tools. I also act as a technical leader, managing technology projects, defining software architecture, and inspiring teams to develop their full potential.
 -->
 
+<!--
 ## Open Source Projects
 
 [🔑 Cryptography101](https://github.com/aferreira44/cryptography101) - _A comprehensive guide to cryptography, from basics to practical applications._
@@ -17,6 +18,7 @@ Professional with 7 years of experience in technology, a specialist in blockchai
 🔒 Bitcoin Saving & Investment App - _Secure and user-friendly bitcoin-only app enabling easy access to bitcoin saving and investment for everyone_
 
 🚀 Token Launchpad - _Providing an all-in-one platform for web3 projects to launch tokens securely and easily_
+-->
 
 <!-- 
 [🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
